@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.13.8
 LABEL maintainer "Lasse Kirkegaard <lk@patientsky.com>"
 LABEL Description="Fluentd docker image" Version="1.4.2"
 
